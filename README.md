@@ -2,7 +2,7 @@
 
 Erroneous, missing, or duplicate data in a dataset can be fixed or eliminated through the process of data cleaning. This crucial phase ensures that data analysis and decision-making are accurate and reliable.  
 
-Procedure for data cleansing that will aid in data preparation: 
+### Procedure for data cleansing that will aid in data preparation: 
 
 1- Eliminate redundant data 
 
@@ -18,7 +18,7 @@ Procedure for data cleansing that will aid in data preparation:
 
 7-Maintain data in a unified form  
 
-  ##              Why SQL? 
+  #             Why SQL? 
 
 Programming languages like SQL (Structured Query Language) are used to administer and work with relational databases. In addition to its effectiveness in retrieving, filtering, updating, and deleting data, it also has applications for data cleansing jobs.  
 
@@ -32,7 +32,8 @@ Most data pipelines need the use of SQL. When building a database on the cloud, 
 
 Layoffs across a variety of global companies are covered in detail in the dataset layoffs.csv. Analysis of these layoffs offers 
 important insights about the status of various industries, firm stages, and geographic areas, as an increasing number of businesses experience
-financial strain and restructuring. Details about the following are included in the dataset: 
+financial strain and restructuring.
+### Details about the following are included in the dataset: 
 
 1- Company Name 
 
