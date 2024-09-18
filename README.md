@@ -33,20 +33,37 @@ Most data pipelines need the use of SQL. When building a database on the cloud, 
 Layoffs across a variety of global companies are covered in detail in the dataset layoffs.csv. Analysis of these layoffs offers 
 important insights about the status of various industries, firm stages, and geographic areas, as an increasing number of businesses experience
 financial strain and restructuring.
-### Details about the following are included in the dataset: 
+## Dataset 
 
-1- Company Name 
+The dataset `layoffs.csv` includes information about: 
 
-2-Location 
+- Company names 
 
-3-Industry 
+- Location 
 
-4-Number of Employees Laid Off 
+- Industry 
 
-5-Percentage of Workforce Affected 
+- Total laid-off employees 
 
-6-Company Stage (e.g., Post-IPO, Series B) 
+- Percentage of workforce affected 
 
-7-Funds Raised by the Company 
+- Company stage (e.g., Post-IPO, Series B) 
 
-8-Date of Layoff Announcement 
+- Funds raised
+
+- Date of Layoff Announcement
+
+## Data Cleaning Process 
+
+The dataset contains missing values, inconsistent formats, and possible outliers. This project provides a step-by-step process to clean the data using MySQL. 
+
+### Steps: 
+
+1. Handle missing values by replacing them with appropriate defaults. 
+
+2. Standardize text data (e.g., country names). 
+
+3. Remove duplicates. 
+
+4. Correct data formats such as date and numerical values.
+
