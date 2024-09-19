@@ -1,3 +1,5 @@
+### This repository contains a project focused on analyzing and cleaning corporate layoffs data. The dataset covers multiple industries, locations, and companies, providing insights into global layoff trends.
+
 #     DATA CLEANING WITH MYSQL 
 
 Erroneous, missing, or duplicate data in a dataset can be fixed or eliminated through the process of data cleaning. This crucial phase ensures that data analysis and decision-making are accurate and reliable.  
